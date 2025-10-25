@@ -1,0 +1,15 @@
+Coding Tasks 
+
+1.Create a Todo App — add, delete, filter todos. 
+2. Create a <RandomNumber> component that shows a random number each me you click 
+a bu on. 
+3. Create a <ProfileCard> component that receives name, age, and loca on via props and 
+displays them nicely. 
+4. Fetch a list of users from h ps://jsonplaceholder.typicode.com/users. Show User Details 
+on Click 
+5. What happens if you call setState() inside useEffect() without a dependency array? 
+6.  Why can’t you use hooks inside loops or condi ons? 
+7. What happens if you pass an empty dependency array to useEffect? 
+8. Difference between useRef and useState. 
+9. what is the difference between Redux and Context API? 
+10. Create a form in one component and display submi ed data in another.
