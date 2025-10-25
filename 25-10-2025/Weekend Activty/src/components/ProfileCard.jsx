@@ -11,7 +11,7 @@ const ProfileCard = ({ name, age, location }) => {
         </div>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default ProfileCard;
+export default ProfileCard

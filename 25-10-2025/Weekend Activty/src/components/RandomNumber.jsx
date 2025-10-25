@@ -11,7 +11,7 @@ const RandomNumber = () => {
       <p className="display-4">{num}</p>
       <button onClick={generate} className="btn btn-success">Generate</button>
     </div>
-  );
-};
+  )
+}
 
-export default RandomNumber;
+export default RandomNumber

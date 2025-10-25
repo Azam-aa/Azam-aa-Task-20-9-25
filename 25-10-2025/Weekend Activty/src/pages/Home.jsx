@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from 'react-router-dom';
+import { Link } from "react-router-dom";
 
 function Home() {
   return (
@@ -21,10 +21,11 @@ function Home() {
         <Link to="/form" className="btn btn-danger">
           Form Display
         </Link>
+        <Link to="/qna" className="btn btn-secondary">
+          React QnA
+        </Link>
       </div>
     </div>
-  );
+  )
 }
-export default Home;
-
-
+export default Home

@@ -6,6 +6,7 @@ import RandomNumber from './components/RandomNumber';
 import ProfileCard from './components/ProfileCard';
 import UserList from './components/UserList';
 import FormDisplay from './components/FormDisplay';
+import ReactQnA from './components/ReactQnA';
 
 function App() {
   return (
@@ -17,8 +18,9 @@ function App() {
         <Route path="/profile" element={<ProfileCard name="Azam Pasha" age="21" location="India" />} />
         <Route path="/users" element={<UserList />} />
         <Route path="/form" element={<FormDisplay />} />
+        <Route path="/qna" element={<ReactQnA />} />
       </Routes>
-  );
+  )
 }
 
 export default App;

@@ -29,7 +29,7 @@ const FormDisplay = () => {
         </div>
       )}
     </div>
-  );
-};
+  )
+}
 
-export default FormDisplay;
+export default FormDisplay

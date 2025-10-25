@@ -36,7 +36,7 @@ const TodoApp = () => {
         ))}
       </ul>
     </div>
-  );
-};
+  )
+}
 
 export default TodoApp;
