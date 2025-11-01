@@ -2,3 +2,5 @@
 
 Assignmnets related to HTML CSS JS REACT
 
+
+Password generator on 01-11-2025
